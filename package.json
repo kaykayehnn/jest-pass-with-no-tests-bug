@@ -1,0 +1,10 @@
+{
+  "name": "jest-pass-with-no-tests-bug",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
